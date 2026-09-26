@@ -2,5 +2,7 @@
   "name": "Zingaro Esports OS",
   "description": "Plataforma integral de alta competición, servidores dedicados sub-tick 128, ligas regionales, arbitraje y control reglamentario de Counter-Strike 2.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
